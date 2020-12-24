@@ -1,15 +1,53 @@
-
 a:link, :visited
 	{
-		background color: indianred;
+		background-color: indianred;
 		color: white;
-		padding: 15px;
+		padding: 10px;
 		text-align: center;
 		text-decoration: none;
-		display: inline-grid;
+		display: inline-block;
 		border-radius: 50px;
 	}
-a:hover, a:active
+
+a:hover
 	{
-		background color: lightpink;
+		background-color: lightcoral;
+		color: azure;
+	}
+
+h1
+	{
+		background-color: maroon;
+		font-family: 'Luckiest Guy', cursive;
+		color: white;
+		padding: 20px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius: 50px dotted;
+
+	}
+
+p
+	{
+		background-color: maroon;
+		font-family: 'Emilys Candy', cursive;
+		color: white;
+		padding: 10px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+
+	}
+
+h2
+	{
+		font-family: 'Mountains of Christmas', cursive;
+		color: white;
+	}
+
+h3
+	{
+		font-family: 'Love Ya Like A Sister', cursive;
+		color: white;
 	}
